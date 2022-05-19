@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390026359158",
+    "project_id": "messenger-8a2cc",
+    "storage_bucket": "messenger-8a2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390026359158:android:2c7962d49cecd4dfe3ca57",
+        "android_client_info": {
+          "package_name": "com.krutsche.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390026359158-rh2l9tk324s2lnaq6qjht17bgf8b05va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9H7X8OLLkP43RWNHRmNWKq_XnxvYwEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390026359158-rh2l9tk324s2lnaq6qjht17bgf8b05va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
